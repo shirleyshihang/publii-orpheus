@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Orpheus Writes",
+    "description": "",
+    "home_page_url": "https://shirleyshihang.github.io/publii-orpheus",
+    "feed_url": "https://shirleyshihang.github.io/publii-orpheus/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "酒瓶"
+    },
+    "items": [
+    ]
+}
